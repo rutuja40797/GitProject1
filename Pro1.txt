@@ -7,4 +7,5 @@ practice
 grow
 
 Git is a distributed version control system.
+Working dir, Staging area, local repository
 thanks.
